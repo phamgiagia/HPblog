@@ -7,12 +7,12 @@ export default function Intro() {
         Hai Pham.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Update with {CMS_NAME} Blog,{' '}
+        Update with {CMS_NAME} Blog, Technology, life story and {' '}
         <a
           href="#!"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Technology, life story and more.
+        more
         </a>{' '}
         .
       </h4>
