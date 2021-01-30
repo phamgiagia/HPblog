@@ -25,12 +25,12 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              Get in touch with me
+              What we can to with {' '}
               <a
                 href='#!'
                 className="underline hover:text-success duration-200 transition-colors"
               >
-              on GitHub
+              COVID-19
               </a>
               .
             </>
